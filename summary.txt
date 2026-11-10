@@ -1,0 +1,4 @@
+Average score: 12.9
+Highest score: 19
+Number of students: 10
+Number of failed students: 3
